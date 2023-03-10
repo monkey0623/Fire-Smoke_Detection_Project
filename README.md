@@ -184,33 +184,6 @@
 - 데이터 불균형 해소 - 비교적 적은 양의 데이터를 추가로 수집하여 라벨간의 데이터 양을 동일하게 만듬
 <br>
 
-## 8.<a name="8">사용 코드</a>
-<table>
-    <thead>
-        <tr>
-            <th>목록</th>
-            <th>파일명</th>
-            <th>설명</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>화재 인식 이미지 전처리 코드</td>
-            <td><a href = "https://github.com/dydwo322/Fire-Smoke_Detection_Project/blob/main/Fire_Smoke_Detection_Project_Preprocessing.ipynb">Fire_Smoke_Detection_Project_Preprocessing.ipynb</a></td>
-            <td> 화재 인식 이미지 리사이즈 & 패딩 전처리 코드입니다.</td>
-        </tr>
-        <tr>
-            <td>화재 인식 모델 학습 코드</td>
-            <td><a href = "https://github.com/dydwo322/Fire-Smoke_Detection_Project/blob/main/Fire_Smoke_Detection_Project_Model_Train.ipynb">Fire_Smoke_Detection_Project_Model_Train.ipynb</a></td>
-            <td> 화재 인식에 쓰는 YOLO v4의 이미지 학습 코드입니다.</td>
-        </tr>
-        <tr>
-            <td>화재 인식 모델 시각화 코드</td>
-            <td><a href = "https://github.com/dydwo322/Fire-Smoke_Detection_Project/blob/main/Fire_Smoke_Detection_Project_Visualization.ipynb">Fire_Smoke_Detection_Project_Visualization.ipynb</a></td>
-            <td> 화재 인식에 쓰는 YOLO v4의 시각화를 해주는 코드입니다.</td>
-        </tr>
-    </tbody>
-</table>
 <br>
 
 ## 9.<a name="9">멤버 & 역할</a>
