@@ -40,12 +40,8 @@
         </tr>
         <tr align=center>
             <td>8</td>
-            <td><a href="#8">사용 코드</a></td>
+            <td><a href="#8">멤버 & 역할</a></td>
         </tr>
-        <tr align=center>
-            <td>9</td>
-            <td><a href="#9">멤버 & 역할</a></td>
-        </tr>  
      </tbody>
 </table>
 <br>
